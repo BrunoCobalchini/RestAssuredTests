@@ -5,7 +5,11 @@
     <classes>
       <class name="tests.TestExamples">
         <methods>
-          <include name="test2"/>
+          <include name="assertPost"/>
+          <include name="assertGet"/>
+          <include name="deleteMethod"/>
+          <include name="assertGetAll"/>
+          <include name="assertPut"/>
         </methods>
       </class> <!-- tests.TestExamples -->
     </classes>
